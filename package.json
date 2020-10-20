@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cazuist/ahj-8_http_helpDesk-server.git"
+    "url": "git+https://github.com/Cazuist/ahj8_rxjs_server.git"
   },
   "author": "Cazuist",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Cazuist/ahj-8_http_helpDesk-server/issues"
+    "url": "https://github.com/Cazuist/ahj8_rxjs_server/issues"
   },
-  "homepage": "https://github.com/Cazuist/ahj-8_http_helpDesk-server#readme",
+  "homepage": "https://github.com/Cazuist/ahj8_rxjs_server#readme",
   "dependencies": {
     "faker": "^5.1.0",
     "forever": "^3.0.2",
